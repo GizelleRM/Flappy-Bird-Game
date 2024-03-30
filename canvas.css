@@ -1,0 +1,8 @@
+canvas
+{
+	background: rgb(114, 184, 250);
+	border: solid 1px rgb(114, 184, 250);
+	/*background-image: url("fondo.png"); */
+	background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el canvas */
+}
+
